@@ -5,7 +5,7 @@
 </div>
 
 <div style="float: left; margin-right: 20px;">
-  <img height="180em" src="snoopy-typing.gif">
+  <img height="180em" src="https://media.tenor.com/MaIKnvKAQv8AAAAC/snoopy-typing.gif">
 </div>
 
 <div style="clear: both;"></div>  
