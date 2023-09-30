@@ -1,8 +1,16 @@
 <div style="float: left; margin-right: 20px;">
-    <a href="https://github.com/dannielzanoni">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannielzanoni&layout=compact&langs_count=7&theme=dracula"/>
-    </a>
-<div style="display: inline_block"><br>
+  <a href="https://github.com/dannielzanoni">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannielzanoni&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
+
+<div style="float: left; margin-right: 20px;">
+  <img height="180em" src="snoopy-typing.gif">
+</div>
+
+<div style="clear: both;"></div>  
+
+<div style="margin-top: 1em;">
   <img align="center" alt="Daniel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Daniel-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
   <img align="center" alt="Daniel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
