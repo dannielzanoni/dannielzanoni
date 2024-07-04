@@ -16,5 +16,5 @@
   <br>
     <p>Currently working as a Full Stack Developer | .Net & Angular</p>
     <p>Currently learning Ruby and focusing on .Net and Angular projects</p>
-    <p>E-mail:  <a href="mailto:contato.danielzanoni@gmail.com"><b>contato.danielzanoni@gmail.com</b></a></p>
+    <p>Email:  <a href="mailto:contato.danielzanoni@gmail.com"><b>contato.danielzanoni@gmail.com</b></a></p>
 </div>
