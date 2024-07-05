@@ -17,4 +17,5 @@
     <p>Currently working as a Full Stack Developer | .Net & Angular</p>
     <p>Currently learning Ruby and focusing on .Net and Angular projects</p>
     <p>Email:  <a href="mailto:contato.danielzanoni@gmail.com"><b>contato.danielzanoni@gmail.com</b></a></p>
+    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
