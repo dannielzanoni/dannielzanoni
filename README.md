@@ -4,7 +4,7 @@ Currently working as a Full Stack Developer | .Net & Angular/React + SqlServer
 ✉️Email: contato.danielzanoni@gmail.com 
 
 <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="20" style="margin-right: 10px; vertical-align: middle;"> My LinkedIn: 
-<a href="https://www.linkedin.com/in/danielzanoni/">
+<a href="https://www.linkedin.com/in/danielzanoni/" target="_blank">
   in/dannielzanoni
 </a>
 
