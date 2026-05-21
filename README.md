@@ -1,21 +1,18 @@
-<div style="display: inline-block;">
-  <a href="https://github.com/dannielzanoni">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannielzanoni&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-<br>  
-<div>
-  <img align="center" alt="Daniel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Daniel-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-  <img align="center" alt="Daniel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Daniel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Daniel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Daniel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-<div style="float: bottom;">
-  <br>
-    <p>Currently working as a Full Stack Developer | .Net & Angular</p>
-    <p>Currently learning Ruby and focusing on .Net and Angular projects</p>
-    <p>Email:  <a href="mailto:contato.danielzanoni@gmail.com"><b>contato.danielzanoni@gmail.com</b></a></p>
-    <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+# Daniel Zanoni 👋
+Currently working as a Full Stack Developer | .Net & Angular/React + SqlServer
+
+✉️Email: contato.danielzanoni@gmail.com 
+
+<img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="20" style="margin-right: 10px; vertical-align: middle;"> My LinkedIn: 
+<a href="https://www.linkedin.com/in/danielzanoni/">
+  in/dannielzanoni
+</a>
+
+[![SkillIcons](https://skillicons.dev/icons?i=cs,ts,js,angular,net,visualstudio,vscode,vite,vue,react,mongodb,docker,azure,aws,kafka,rabbitmq,git,gitlab)](https://skillicons.dev)<br/>
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  <br/>
+  
+  <a href="#">![Github stats](https://github-stats-extended.vercel.app/api/top-langs/?username=dannielzanoni&layout=compact&theme=dracula&hide_border=true&langs_count=8)</a>
+</details>
